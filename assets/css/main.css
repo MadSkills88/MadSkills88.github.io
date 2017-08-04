@@ -933,7 +933,7 @@ table.alt tbody tr td {
 }
 #wrapper {
     transition: opacity 0.5s ease;
-    position: relative;
+/*     position: relative; */
     z-index: 1;
     overflow: hidden;
 }
